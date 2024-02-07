@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and a determin
 - 💡 Founder of @shoptinga, an exciting startup aiming to revolutionize the way people shop.
 - 🚀 Committed to leveraging technology to create meaningful solutions and improve lives.
 - 🌍 Dedicated to driving change and progress in Africa's tech ecosystem.
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
+
 
 ## What I Bring to the Table
 
