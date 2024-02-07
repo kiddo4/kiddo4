@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and a determined teenager on a mission to innovate the future for Africa and beyond. With a burning desire to make a positive impact, I'm constantly exploring new technologies and pushing my boundaries to reach new heights.
+Welcome to my GitHub profile! I'm a passionate software developer  on a mission to innovate the future for Africa and beyond. With a burning desire to make a positive impact, I'm constantly exploring new technologies and pushing my boundaries to reach new heights.
 
 ## About Me
 
-- 🌟 Software Developer with a focus on Python, Dart, Flutter, Django, and a touch of JavaScript.
+- 🌟 Software Developer with a focus on  Dart, Flutter, Python, Django, and a touch of JavaScript.
 - 💡 Founder of @shoptinga, an exciting startup aiming to revolutionize the way people shop.
 - 🚀 Committed to leveraging technology to create meaningful solutions and improve lives.
 - 🌍 Dedicated to driving change and progress in Africa's tech ecosystem.
