@@ -24,8 +24,13 @@ Welcome to my GitHub profile! I'm a passionate software developer and a determin
 
 I'm always excited to connect with fellow developers, enthusiasts, and visionaries. Feel free to reach out to me if you'd like to collaborate, discuss ideas, or simply have a chat.
 
-- 📧 Email: olanrewajutaiwo183@gmail.com
-- 💬 Twitter: @kiddo4lyf
-- 🌐 Linkedin: linkedin.com/in/olanrewaju-taiwo-176457241/
+<p align="center">
+<a href="https://www.linkedin.com/in/olanrewaju-taiwo-176457241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://twitter.com/kiddo4lyf/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+<a href="https://www.instagram.com/kiddo4lyf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+ <a href="https://www.instagram.com/kiddo4lyf/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
+<a href="mailto:olanrewajutaiwo183@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p><br>
+
 
 Let's embark on this thrilling journey together, innovating the future and making a lasting impact. Join me as we code, create, and change the world, one line of code at a time. 🚀💻
