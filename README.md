@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and a determin
 - 🚀 Committed to leveraging technology to create meaningful solutions and improve lives.
 - 🌍 Dedicated to driving change and progress in Africa's tech ecosystem.
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
-
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=kiddo4&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
 
 ## What I Bring to the Table
 
