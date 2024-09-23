@@ -22,11 +22,6 @@ Welcome to my GitHub profile! I'm a passionate software developer  on a mission 
 
 <br>
 
-
-<img src ="[https://github-readme-stats.vercel.app/api/top-langs/?username=kiddo4&theme=darcula&hide_border=true&background=FFFFFF00&include_all_commits=false&count_private=false&layout=compact]">
-  <br>
-
-
 ## Get in Touch
 
 I'm always excited to connect with fellow developers, enthusiasts, and visionaries. Feel free to reach out to me if you'd like to collaborate, discuss ideas, or simply have a chat.
