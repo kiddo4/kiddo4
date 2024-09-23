@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I'm a passionate software developer  on a mission 
 - 🤝 Collaborative nature and a team player mentality.
 
 <br>
-# 📊 GitHub Stats:
+
 
 <img src ="[https://github-readme-stats.vercel.app/api/top-langs/?username=kiddo4&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact]">
-  <br>)
+  <br>
 
 
 ## Get in Touch
