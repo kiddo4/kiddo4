@@ -20,6 +20,13 @@ Welcome to my GitHub profile! I'm a passionate software developer  on a mission 
 - 🌟 Ability to adapt and learn quickly in fast-paced environments.
 - 🤝 Collaborative nature and a team player mentality.
 
+<br>
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=kiddo4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kiddo4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddo4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## Get in Touch
 
