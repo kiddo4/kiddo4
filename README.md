@@ -20,11 +20,11 @@ I Engineer and build Amazing things
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yczar&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiddo4&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yczar&show_icons=true&locale=en&theme=onedark" alt="yczar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiddo4&show_icons=true&locale=en&theme=onedark" alt="yczar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="yczar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiddo4&theme=onedark" alt="yczar" /></p>
 
 <br>
 
