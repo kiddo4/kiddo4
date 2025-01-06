@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Welcome to my GitHub profile! I'm a passionate software developer  on a mission to innovate the future for Africa and beyond. With a burning desire to make a positive impact, I'm constantly exploring new technologies and pushing my boundaries to reach new heights.
+I Engineer and build Amazing things
 
 ## About Me
 
