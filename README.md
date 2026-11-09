@@ -1,38 +1,55 @@
-### Hi there 👋
-I Engineer and build Amazing things
+# Olanrewaju Taiwo
 
-## About Me
+**AI Product Engineer building agentic, full-stack, and mobile products.**
 
-- 🌟 Software Developer with a focus on  Dart, Flutter, Python, Django, Swift, Rust, and a touch of JavaScript.
-- 🚀 Committed to leveraging technology to create meaningful solutions and improve lives.
-- 🌍 Dedicated to driving change and progress in the tech ecosystem.
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=kiddo4&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
+I have 7+ years of product engineering experience turning ideas into production software across web, mobile, AI, and cloud. I care about useful products, strong execution, and systems that are built to ship.
 
-## What I Bring to the Table
+[Portfolio](https://kiddobuild.dev) · [LinkedIn](https://www.linkedin.com/in/olanrewaju-taiwo-176457241/) · [X](https://twitter.com/kiddo4lyf) · [Email](mailto:olanrewajutaiwo183@gmail.com)
 
-- 🧠 Strong problem-solving skills and a knack for critical thinking.
-- 🚀 Passionate about delivering efficient and elegant code.
-- 💡 Creative mindset that thrives on turning ideas into reality.
-- 🌟 Ability to adapt and learn quickly in fast-paced environments.
-- 🤝 Collaborative nature and a team player mentality.
+## What I build
 
-<br>
+- AI agents and product workflows with OpenAI, Claude, MCP, embeddings, and retrieval
+- Full-stack applications with React, Next.js, TypeScript, Node.js, and Python
+- Mobile and real-time products with Flutter, Swift, and modern backend systems
+- Production infrastructure on AWS and GCP
 
+## Selected work
 
+| Project | What it demonstrates |
+| --- | --- |
+| [Glint](https://github.com/kiddo4/glint) | A 3D engine for Flutter with native `flutter_gpu` rendering inside the widget tree |
+| [Doingthings](https://github.com/kiddo4/doingthings) | A TypeScript product studio with a [live experience](https://doingthings-one.vercel.app) |
+| [AWS Rekognition Liveness](https://github.com/kiddo4/aws_rekognition_liveness) | A Flutter plugin wrapping AWS Rekognition Face Liveness on iOS and Android |
+| [Summarizer](https://github.com/kiddo4/summarizer) | A generative AI application for summarizing and improving long-form text |
 
-## Get in Touch
+## Core stack
 
-I'm always excited to connect with fellow developers, enthusiasts, and visionaries. Feel free to reach out to me if you'd like to collaborate, discuss ideas, or simply have a chat.
+`TypeScript` `React` `Next.js` `Python` `AI Agents` `OpenAI` `Claude` `MCP` `Embeddings` `Flutter` `AWS` `GCP`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/olanrewaju-taiwo-176457241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://twitter.com/kiddo4lyf/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
-<a href="https://www.instagram.com/kiddo4lyf/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
- <a href="https://www.instagram.com/kiddo4lyf/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
-<a href="mailto:olanrewajutaiwo183@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p><br>
+## Now
+
+- Building AI-native products and developer tools
+- Open to fully remote AI Product Engineer and AI Full-Stack Engineer roles
+- Available for ambitious product collaborations
 
 
-Let's embark on this thrilling journey together, innovating the future and making a lasting impact. Join me as we code, create, and change the world, one line of code at a time. 🚀💻
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
